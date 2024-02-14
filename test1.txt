@@ -1,3 +1,8 @@
 first line
 Second line
+<<<<<<< HEAD
 Third Line = 300
+=======
+Third Line
+
+>>>>>>> branch1
